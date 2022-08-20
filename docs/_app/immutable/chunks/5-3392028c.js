@@ -1,0 +1,1 @@
+import{_ as m}from"./_page-d2325c34.js";import{default as a}from"../components/pages/pokemon/_id_/_page.svelte-4129e44c.js";import"./index-39745b63.js";import"./Transition-686d0d23.js";export{a as component,m as shared};
